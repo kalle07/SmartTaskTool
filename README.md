@@ -32,9 +32,10 @@ On start you will see a GUI, you have 10 secons to choose hardware.
 <br>
 
 Further work:
-* Iam on it to implement to save a config-file for reuse... all its not that easy for me ;) 
+* Iam on it to implement to save a config-file for reuse 
 <br>
 * Iam on implement AMD GPU (need help with librehardware, I have all I need only how looks like the list, would be nice if you can help)
+<br>
 
 Hints:
 Drive threshold 2MB (this means that only larger actions are displayed)
