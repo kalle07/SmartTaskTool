@@ -14,12 +14,12 @@ GPU Temperature
 Network - download/upload
 -> Update once per second
 
-My Icons look like this: (depending on hard drives/partitions, Network, GPU)
+My Icons look like this: (depending on hard drives/partitions, Network, GPU)<br>
 <img width="720" height="224" alt="grafik" src="https://github.com/user-attachments/assets/77123810-4938-452a-a4cf-7a6ba2eabcc2" />
-
-At start you can choose:
+<br>
+At start you can choose:<br>
 <img width="481" height="569" alt="grafik" src="https://github.com/user-attachments/assets/2e35330b-75a3-4070-a4c2-10a11db5585d" />
-
+<br>
 
 
 python (4 files, start main) or exe
