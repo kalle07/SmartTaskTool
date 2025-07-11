@@ -36,7 +36,7 @@ Further work:
 * Iam on implement AMD GPU (need help with librehardware, I have all I need only how looks like the list, would be nice if you can help)
 <br>
 
-Hints:
+Hints:<br>
 Drive threshold 2MB/s (this means that only larger actions are displayed)<br>
 red - writing | green - reading | yellow - <read/write><br>
 Network start at 0.1kB/s up to GB/s<br>
